@@ -1,40 +1,46 @@
-# backend
-
-> Contacts API server
-
-## About
+7## About
 
 
 > Project: "Contacts Manager || React + FeatherJS"
 > This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+> The code allows you to add new contacts to your Contact Manager.
 
 ## Getting Started
 
-Getting up and running is as easy as 1, 2, 3.
+Getting up and running is as easy as 1, 2, 3, 4.
 
 1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
     Verify NodeJS Installation: ``` node --version ```
 
 2. Install your dependencies
 
+    From root of project (/react-crud-contacts-manager-featherjs)
+
+    ``` 
+    npm install or yarn install 
+    
+    ```
+    ^ This will insall all required technologies for the Frontend in a new node_modules folder.
+
     ```
     cd path/to/backend
     npm install
     ```
 
-3. Start your app
-  - Navigate to: http://localhost:3000/contacts/new
-
-    ```
-    npm start (or yarn start)
-    ```
-
-4. Start your MongoDB connection
+3. Start your MongoDB connection
    - Open a new terminal / cmd prompt & type:
 
     ```
     mongod
     ```
+
+4. Start your app
+  
+    ```
+    npm start (or yarn start)
+    ```
+    - Navigate to: http://localhost:3000/contacts/new   (if localhost:3000 doesn't automatically open in a browser tab)
+
 
 
 ## Testing

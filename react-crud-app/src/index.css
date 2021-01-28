@@ -1,0 +1,13 @@
+.error {
+  color: #9f3a38;
+}
+
+.headerText {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-stretch: extra-expanded;
+  font-family: "Lato","Helvetica Neue","Arial","Helvetica","sans-serif";
+
+}

@@ -1,5 +1,8 @@
-7## About
+## About
+****NOTE:****
+DELETE react-crud-app folder before following the instructions below!!!!!
 
+----------------------------------------------------------------------------------------
 
 > Project: "Contacts Manager || React + FeatherJS"
 > This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.

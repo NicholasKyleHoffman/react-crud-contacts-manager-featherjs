@@ -17,13 +17,13 @@
 
 <img src="https://i.ibb.co/bmNJcVj/Add-Contact-Modal.jpg" alt="Add-Contact-Modal" border="0">
 
-## Image 2) New User Flow
-
-<img src="https://i.ibb.co/HHcFcPz/New-User-Flow.jpg" alt="New-User-Flow" border="0">
-
-## Image 3) Contacts List Modal
+## Image 2) Contacts List Modal
 
 <img src="https://i.ibb.co/z6qRWz3/Contacts-List.jpg" alt="Contacts-List" border="0">
+
+## Image 3) New User Flow
+
+<img src="https://i.ibb.co/HHcFcPz/New-User-Flow.jpg" alt="New-User-Flow" border="0">
 
 ## Image 4) New Added to Contacts Cards 
 
